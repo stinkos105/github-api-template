@@ -1,11 +1,11 @@
-# Project Title
+# Weather Tap
 
-Introduction.
+Web application that displays weather using postcode.
 
-![image](project_images/sample.jpg?raw=true)
+![image](project_images/weathertap.png?raw=true)
 
 ## Authors
 
-- Developed by John Doe
+- Developed by Jasper Valero
 
 

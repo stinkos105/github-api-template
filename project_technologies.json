@@ -1,9 +1,9 @@
 {
 	"technologies": {
-		"apis": [],
-		"platforms": [],
+		"apis": ["Yahoo Weather API"],
+		"platforms": ["flash", "flex"],
 		"libraries": []
 	},
-	"themes": []
+	"themes": ["weather"]
 }
 
